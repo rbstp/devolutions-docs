@@ -1,0 +1,1423 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/wayk/dev/devolutions-docs/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "gateway/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "gateway/getting-started.html",
+          "hash": "qgbNanO990FWesmue74L6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "gateway/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "gateway/index.html",
+          "hash": "zjpfJCZHsYwg8FwpYaQxyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "gateway/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "gateway/toc.html",
+          "hash": "VOhtdgAsKfqUMk+l/T2FQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_dns_add_record.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_dns_add_record.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_ps_login_success.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_ps_login_success.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_create_basics.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_create_basics.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_create_complete.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_create_complete.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_create_management.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_create_management.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_create_networking.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_create_networking.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_create_progress.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_create_progress.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_create_review.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_create_review.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_recommended_defaults.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_recommended_defaults.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/azure_vm_windows_server_core_create.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/azure_vm_windows_server_core_create.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_add_user_dford.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_add_user_dford.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_add_user_ryoung.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_add_user_ryoung.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_connection_list_test.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_connection_list_test.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_enrollment_machine.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_enrollment_machine.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_enrollment_token_actions.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_enrollment_token_actions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_enrollment_token_data.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_enrollment_token_data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_enrollment_token_id.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_enrollment_token_id.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_enrollment_token_new.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_enrollment_token_new.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_initial_admin.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_initial_admin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_initial_login.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_initial_login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_session_list_test.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_session_list_test.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_unattended_machine_list.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_unattended_machine_list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_user_action_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_user_action_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_user_list_admin.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_user_list_admin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_user_list_test.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_user_list_test.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/den_user_role_dford_machine_contributor.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/den_user_role_dford_machine_contributor.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/dns_zone_buzzword.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/dns_zone_buzzword.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_add_website.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_add_website.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_arr_module.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_arr_module.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_create_new_site.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_create_new_site.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_enable_arr.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_enable_arr.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_https_site_binding.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_https_site_binding.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_import_certificate.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_import_certificate.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_install_features.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_install_features.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_preserve_host_header.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_preserve_host_header.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_server_certificates.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_server_certificates.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_site_edit_bindings.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_site_edit_bindings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_url_rewrite_add_rule.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_url_rewrite_add_rule.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_url_rewrite_cache_url.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_url_rewrite_cache_url.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_url_rewrite_edit_inbound_rule.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_url_rewrite_edit_inbound_rule.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_url_rewrite_module.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_url_rewrite_module.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/iis_url_rewrite_open.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/iis_url_rewrite_open.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/jet_relay_l4_deployment.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/jet_relay_l4_deployment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/jet_relay_l7_deployment.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/jet_relay_l7_deployment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_download.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_download.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_installer_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_installer_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_installer_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_installer_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_installer_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_installer_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_installer_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_installer_4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_installer_5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_installer_5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_installer_6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_installer_6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_installer_7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_installer_7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mongo_windows_tools.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mongo_windows_tools.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_connect_dford_login.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_connect_dford_login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_connect_dford_target.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_connect_dford_target.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_connect_ryoung_to_dford.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_connect_ryoung_to_dford.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_den_login_success.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_den_login_success.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_den_login_user_dford.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_den_login_user_dford.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_den_server_url.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_den_server_url.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_den_server_user_dford_registered.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_den_server_user_dford_registered.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/now_den_server_user_dford_unregistered.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/now_den_server_user_dford_unregistered.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_agent_diagnostic_logging.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_agent_diagnostic_logging.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_agent_export_diagnostics.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_agent_export_diagnostics.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_agent_exported_diagnostic_logs.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_agent_exported_diagnostic_logs.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_agent_restart_service.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_agent_restart_service.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_bastion_licenses_empty.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_bastion_licenses_empty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_bastion_licenses_not_empty.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_bastion_licenses_not_empty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_bastion_new_license.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_bastion_new_license.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_bastion_user_select_license.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_bastion_user_select_license.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_bastion_users_edit_license.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_bastion_users_edit_license.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_client_connectivity_logged_in.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_client_connectivity_logged_in.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_client_connectivity_login_window.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_client_connectivity_login_window.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_client_connectivity_not_logged_in.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_client_connectivity_not_logged_in.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_client_connectivity_please_login.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_client_connectivity_please_login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_client_register_product.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_client_register_product.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_client_registration_dialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_client_registration_dialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_den_l4_deployment.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_den_l4_deployment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/wayk_den_l7_deployment.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/wayk_den_l7_deployment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "vEQlmdAnojR099qdQfhyaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/devolutions-icon.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/devolutions-icon.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/gateway-color-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/gateway-color-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/gateway-logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/gateway-logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/gateway-white-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/gateway-white-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-agent-color-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-agent-color-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-agent-logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-agent-logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-agent-white-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-agent-white-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-bastion-color-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-bastion-color-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-bastion-logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-bastion-logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-bastion-white-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-bastion-white-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-client-color-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-client-color-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-client-logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-client-logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logos/wayk-client-white-shadow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logos/wayk-client-white-shadow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "jVPkDcvO1vEw44oxDQL+HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/agent/diagnostics.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/agent/diagnostics.html",
+          "hash": "sca6kw5b3mvf7lf1PtI1aA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/agent/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/agent/index.html",
+          "hash": "mBKxzMqeKreaRuzurPyWEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/agent/known-issues.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/agent/known-issues.html",
+          "hash": "ThAqYB2NDw5Y9W/jfCmSJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/agent/requirements.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/agent/requirements.html",
+          "hash": "tCsz2rM+1R3j53Nv8D9qYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/database-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/database-management.html",
+          "hash": "K6wVfcUvgeZIRK8UmOfo0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/deployment-automation.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/deployment-automation.html",
+          "hash": "xAQ1USm+1qwHtZZIhjZdfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/docker-installation.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/docker-installation.html",
+          "hash": "Puj0+PdUgCxN+QvjKEKyow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/getting-started-acme.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/getting-started-acme.html",
+          "hash": "6uIy4Mse+9H00zjxvnLl8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/getting-started-argo.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/getting-started-argo.html",
+          "hash": "vFowpCP0oUVFry1fVfaBSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/getting-started-azure.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/getting-started-azure.html",
+          "hash": "/4d5DcN/kQ6I90kEGQaF9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/getting-started.html",
+          "hash": "TYnZJBycru+v3jprN66tCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/iis-deployment.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/iis-deployment.html",
+          "hash": "sda8atKiNGd6ZlhBLtyfmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/index.html",
+          "hash": "SFpkEk7WCffjQWagn/iebw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/license-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/license-management.html",
+          "hash": "VRWH2I3jb4X4fTdR2IJxIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/migration-guide.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/migration-guide.html",
+          "hash": "yDc4buH4BgGyjsBKCniaZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/mongodb-installation.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/mongodb-installation.html",
+          "hash": "Ew5miFYls7fb0ttrml162g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/bastion/user-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/bastion/user-management.html",
+          "hash": "vh1ZO1kBqXYbxTVp8WzWuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/client/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/client/index.html",
+          "hash": "SzOdQjKtwqqZNZn593EQWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/client/licensing.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/client/licensing.html",
+          "hash": "bz0n2UFrygd8gFNZkp7oAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/client/requirements.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/client/requirements.html",
+          "hash": "B5FQcrRLUbuUBp/C+qe13A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/client/user-login.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/client/user-login.html",
+          "hash": "Zp+b8KypUKb3g7CylbjyQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "wayk/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/index.html",
+          "hash": "G4kdMQntkoH6Ns0a6fs0WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "wayk/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "wayk/toc.html",
+          "hash": "pck3j3fm1AJEdIMPhWd5Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 25,
+          "skipped_file_count": 24
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
